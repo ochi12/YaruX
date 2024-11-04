@@ -35,6 +35,10 @@ Note: `Option 1` will still require sudo later on to edit `/usr/share/icons/Yaru
 # Uninstall Guide
 Similar to `Option 1` and `Option 2` but replacing `./install.sh` with `./uninstall.sh`
 
+# Recommendations For Design Contributors
+* When you clone this repository, it contains a src/templates folder which hold the basic template of Yaru. Copy these files to your file manager's template folder to easily make new files later on.
+* Picking a greate vector manipulator tool is also essential. `ochii` the maintainer of this repository, personally uses the popular `inkscape` from ![inkscape.org](https://inkscape.org/release/inkscape-1.4/)
+
 
 
 
