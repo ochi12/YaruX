@@ -2,14 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    width="400"
@@ -17,11 +9,19 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Vertical Oblong App Icon Template.svg"
+   sodipodi:docname="vert.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
-   inkscape:export-filename="C:\Users\sblav\Pictures\vertical oblong template.png">
+   inkscape:export-filename="C:\Users\sblav\Pictures\vertical oblong template.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title3004">Yaru Icon Theme Template</title>
   <sodipodi:namedview
@@ -62,7 +62,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:pagecheckerboard="false"
-     showborder="false">
+     showborder="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
@@ -73,7 +74,8 @@
        empspacing="4"
        snapvisiblegridlinesonly="true"
        originx="0"
-       originy="0" />
+       originy="0"
+       units="px" />
     <inkscape:grid
        type="xygrid"
        id="grid11592"
@@ -88,7 +90,8 @@
        empopacity="0.25098039"
        snapvisiblegridlinesonly="true"
        originx="0"
-       originy="0" />
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -257,7 +260,7 @@
        id="linearGradient4226"
        xlink:href="#linearGradient4338-7"
        inkscape:collect="always"
-       gradientTransform="matrix(0,-0.453125,-0.45311204,0,277.957,268)" />
+       gradientTransform="matrix(0,-0.453125,-0.45311204,0,285.44968,375.49676)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4338-7"
@@ -271,10 +274,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4346"
-       x="-0.013249796"
-       width="1.0264996"
-       y="-0.010965657"
-       height="1.0219313">
+       x="-0.014454287"
+       width="1.0289086"
+       y="-0.011357288"
+       height="1.0227146">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.120027"
@@ -344,9 +347,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter48920"
-       x="-0.054544518"
+       x="-0.054544517"
        width="1.109089"
-       y="-0.042857721"
+       y="-0.04285772"
        height="1.0857154">
       <feGaussianBlur
          inkscape:collect="always"
@@ -357,7 +360,7 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter48924"
-       x="-0.01363613"
+       x="-0.013636129"
        width="1.0272723"
        y="-0.01071443"
        height="1.0214289">
@@ -519,8 +522,8 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="scccssscsss" />
       <path
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate;filter:url(#filter48920)"
-         d="m 201.07298,45 c 35.29673,0 39.09461,3.625418 38.92162,38.99353 V 157 230.00647 C 240.16759,265.37459 236.36971,269 201.07298,269 H 102.91622 C 67.6195,269 63.9946,265.375 63.9946,230.00647 V 157 83.99353 C 63.9946,48.624997 67.6195,45 102.91622,45 Z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter48920);enable-background:accumulate"
+         d="m 355.07298,45 c 35.29673,0 39.09461,3.625418 38.92162,38.99353 V 157 230.00647 C 394.16759,265.37459 390.36971,269 355.07298,269 H 256.91622 C 221.6195,269 217.9946,265.375 217.9946,230.00647 V 157 83.99353 C 217.9946,48.624997 221.6195,45 256.91622,45 Z"
          id="rect4158-1-2"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="scccssscsss" />
@@ -538,10 +541,10 @@
          id="rect4158-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="scccssscsss"
-         transform="matrix(0.5,0,0,0.5,8,8)" />
+         transform="matrix(0.5,0,0,0.5,-40,8)" />
       <path
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4226);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         d="m 201.07298,44 c 35.29673,0 39.09461,3.625418 38.92162,38.99353 V 156 229.00647 C 240.16759,264.37459 236.36971,268 201.07298,268 H 102.91622 C 67.6195,268 63.9946,264.375 63.9946,229.00647 V 156 82.99353 C 63.9946,47.624997 67.6195,44 102.91622,44 Z"
+         d="m 208.56566,151.49676 c 35.29673,0 39.09461,3.62542 38.92162,38.99353 v 73.00647 73.00648 c 0.17299,35.36811 -3.62489,38.99352 -38.92162,38.99352 H 110.4089 c -35.296717,0 -38.921617,-3.625 -38.921617,-38.99352 v -73.00648 -73.00647 c 0,-35.36853 3.6249,-38.99353 38.921617,-38.99353 z"
          id="rect4158"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="scccssscsss" />

@@ -2,6 +2,7 @@ GLOBAL_ICONS="/usr/share/icons/"
 LOCAL_ICONS="$HOME/.local/share/icons/"
 
 YARU_INDEX="/usr/share/icons/Yaru/index.theme"
+SRC_ICONS="icons/YaruX"
 
 is_user=$1
 
@@ -13,7 +14,7 @@ if [ "$is_user" = "--user" ]; then
     echo "---------------------------------------------"
   fi
 
-  cp -r "YaruX/" "$LOCAL_ICONS"
+  cp -r "$SRC_ICONS" "$LOCAL_ICONS"
   echo "Successfully installed YaruX for current user."
 
 elif [ "$is_user" = "" ]; then
@@ -27,7 +28,7 @@ elif [ "$is_user" = "" ]; then
     echo "---------------------------------------------"
     echo
   fi
-  sudo cp -r "YaruX/" "$GLOBAL_ICONS"
+  sudo cp -r "$SRC_ICONS" "$GLOBAL_ICONS"
   echo "Successfully installed YaruX system wide."
 else 
   echo "only --user on no parameter is allowed."
@@ -36,6 +37,17 @@ fi
 
 echo
 echo
+
+
+
+if ! test -d $GLOBAL_ICONS/Yaru -o -d $LOCAL_ICONS/Yaru; then
+  echo
+  echo "YaruX is designed as part of Yaru inheritance but yaru-them-icon is not installed"
+  echo "installing yaru-theme-theme..."
+  sudo apt-get install -qq yaru-theme-icon
+  echo "yaru-them-icon installed successfully."
+  echo
+fi
 
 
 echo "Editing Yaru/index.theme to make Yaru inherit YaruX."
